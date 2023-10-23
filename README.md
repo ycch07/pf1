@@ -1,5 +1,5 @@
 # 프로젝트명 : 삼성전자 홈페이지 클론코딩
-(요약설명글 작성)
+
 
 ## 원본 웹사이트
 ![image](https://github.com/ycch07/pf1/assets/142772606/8f5c290c-06c6-480e-988f-a23fe4ed5e2e)
